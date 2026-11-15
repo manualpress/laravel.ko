@@ -1,0 +1,3 @@
+- ## 시작하기
+    - [설치](/docs/{{version}}/installation)
+    - [사용법](/docs/{{version}}/usage)
